@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kristenmeow
-- 👀 I’m interested in app & game development.
+- 👀 I’m interested in machine learnin and application development.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on the field of game development.
 
